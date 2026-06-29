@@ -1,0 +1,197 @@
+canonical_identifier: bkk:krp/KR3ed135/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed135/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 怪證奇方
+  identifiers:
+    krp: KR3ed135
+  tags:
+    kr-categories: KR3ed
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed135.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ed135_001-jc.yaml, hash: 'sha256:7f67304e93d2fae05db0d87ead2a857aafb3819db395bb2836671307b45f345c'}
+  - {seq: 3, filename: KR3ed135_003-jc.yaml, hash: 'sha256:0ec4e163eb998bb10a05e40bdf8c9eec5485e97b48f3869b132881141e0b2bbc'}
+  - {seq: 0, filename: KR3ed135_000-jc.yaml, hash: 'sha256:19d15871fab3cd7a290b323ffd832069c56a2650ec822678ec57f4f1ddb0daa6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ed135_001-jc.markers.yaml, hash: 'sha256:7f60c692d54a0f301b9f269c0518e58ff8ad7009f4f435e80d39f58e80efebfd'}
+  - {seq: 3, role: markers, filename: assets/KR3ed135_003-jc.markers.yaml, hash: 'sha256:776629d482afbee9b5506eb16f55e92870cf3bcf7e000d3f65e9998f294e4d3a'}
+  - {seq: 0, role: markers, filename: assets/KR3ed135_000-jc.markers.yaml, hash: 'sha256:d3ff869c6720644eaf989c0fe6ee5cfb2c78c082ad030cfa0b34f2381f43815d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed135_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6107
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed135_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5074
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1576
+  label: 怪證奇方雜錄附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d4d74
+    span:
+    - body
+    - 1462
+    - 1484
+  label: 又詩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d4d75
+    span:
+    - body
+    - 1484
+    - 1576
+  label: 又
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5.h1s1
+    span:
+    - body
+    - 1576
+    - 3039
+  label: 又李小仙附雜錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d2
+    span:
+    - body
+    - 1583
+    - 1629
+  label: 醫有三十科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d3
+    span:
+    - body
+    - 1629
+    - 1777
+  label: 察色脈一定吉凶
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d4
+    span:
+    - body
+    - 1777
+    - 1867
+  label: 五臟者身之強
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d5
+    span:
+    - body
+    - 1867
+    - 1986
+  label: 十二官
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d6
+    span:
+    - body
+    - 1986
+    - 2075
+  label: 精明五色氣之華
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d7
+    span:
+    - body
+    - 2075
+    - 2090
+  label: 視而可見
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d8
+    span:
+    - body
+    - 2090
+    - 2136
+  label: 百病生於氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d9
+    span:
+    - body
+    - 2136
+    - 2212
+  label: 夢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d10
+    span:
+    - body
+    - 2212
+    - 2289
+  label: 四氣調神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d11
+    span:
+    - body
+    - 2289
+    - 2324
+  label: 六失
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed135_jc_000-d5d12
+    span:
+    - body
+    - 2324
+    - 3039
+  label: 六不治
+  type: section
+  level: 2
+hash: sha256:057b7866e496e1b752af3657c5bbc5dc440c9a8a7fea482c32f48b57c3b3e0af
